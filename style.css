@@ -519,8 +519,8 @@ a {
    }
 
    .photo-header,
-   .uset-item,
-   .shop-item {
+   .user,
+   .shop {
       display: none;
    }
 
